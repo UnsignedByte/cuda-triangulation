@@ -1,0 +1,6 @@
+build/
+flamegraph.svg
+perf.data
+perf.data.old
+report*.nsys-rep
+report*.sqlite
